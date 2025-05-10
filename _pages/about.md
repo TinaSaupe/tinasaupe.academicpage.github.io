@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  <h1 style="color: #007ACC;">About me</h1>
+<h1 style="color: #007ACC;">About me</h1>
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem;">
