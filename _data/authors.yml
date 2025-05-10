@@ -16,3 +16,9 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+tina_saupe:
+  name: "Tina Saupe"
+  avatar: "images/images-tinasaupe/Image_TinaSaupe.jpg"
+  bio: "Your custom bio here."
+  location: "Your city, country"
