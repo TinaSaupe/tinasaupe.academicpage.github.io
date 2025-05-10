@@ -19,7 +19,7 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 150vh;               // Ensure the sidebar height is 100% of the viewport height
-    overflow-y: auto;            // Enable vertical scrolling if content exceeds height
+    overflow-y: hidden;            // Enable vertical scrolling if content exceeds height
     overflow-x: hidden;          // Prevent horizontal scrolling
     position: fixed;
     padding-top: $masthead-height;
