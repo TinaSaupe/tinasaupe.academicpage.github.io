@@ -7,6 +7,7 @@
    ========================================================================== */
 
 .sidebar {
+  box-sizing: border-box;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
@@ -19,7 +20,8 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
-    overflow-y: hidden;
+    max-height: 100vh;
+    overflow-y: auto;
     overflow-x: hidden;
     position: fixed;
     padding-top: $masthead-height;
