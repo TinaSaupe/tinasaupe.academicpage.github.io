@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Front page Tina Saupe"
+title: "About me"
 author_profile: true
 #author: tina_saupe
 redirect_from: 
   - /about/
   - /about.html
+  <h1 style="color: #007ACC;">About me</h1>
 ---
-
-## Tina Saupe
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem;">
   <div style="flex: 1;">
@@ -22,5 +21,7 @@ redirect_from:
   </div>
 </div>
 
-My research mainly focuses on the demographic history of the Mediterrean Basin during the Bronze Age period. 
+My research mainly focuses on the demographic history of the Mediterrean Basin during the Bronze Age period. I conducted my PhD studies at the Institute of Genomics and defended my dissertation titled [_**The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula**_](https://dspace.ut.ee/items/3a371275-20d4-4c16-bf11-84c9bd50a6ee) in August 2022.  
+
+
 
