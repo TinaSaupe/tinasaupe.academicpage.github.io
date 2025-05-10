@@ -75,6 +75,13 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
+  # other author fields like email, location, etc.
+  languages:
+  - "Languages:"
+  - "🇩🇪 German (native)"
+  - "🇬🇧 English (fluent)"
+  - "🇪🇪 Estonian (basics)"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
