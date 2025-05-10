@@ -19,7 +19,7 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
-    overflow-y: auto;
+    overflow-y: hidden;
     overflow-x: hidden;
     position: fixed;
     padding-top: $masthead-height;
