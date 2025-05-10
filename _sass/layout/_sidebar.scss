@@ -19,8 +19,7 @@
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 150vh;
-    max-height: 150vh;
+    height: calc(100vh - #{$masthead-height});
     overflow-y: auto;
     overflow-x: hidden;
     position: fixed;
