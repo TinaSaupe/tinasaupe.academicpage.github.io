@@ -11,10 +11,30 @@ redirect_from:
 
 Personal research grants
 ======
-* Date
-  * Place of performance:
-  * Funded by
+### Primary: 
 
-Funded by
+* February 2023 - January 2025: Postdoctoral Fellowship 
+  * Place of performance: Uppsala University (Sweden)
+  * Funded by <a href="https://www.swgc.org/en/welcome">Wenner-Gren foundations<a/> based in Sweden
+
+### Secondary:
+
+* June 2024: Research grant 
+  * Place of performance: Uppsala University (Sweden)
+  * Funded by SPRI Grants for Genomic Research from Beckman Coulter Life Sciences
+
+* January 2024: Research grant
+  * Place of performance: Uppsala University (Sweden)
+  * Funded by <a href="https://sites.google.com/view/svsplantgeogr/home">Swedish Phytogeographical Society</a>
+
+* January 2024: Research grant
+  * Place of performance: Uppsala University (Sweden)
+  * Funded by Stiftelse Lars Hiertas Minne
+
+
+Other grants
 ======
-* Ph.D in Gene Technology @University of Tartu 🇪🇪, 2018 - 2022
+* February - June 2018: PROMOS partial scholarship (DAAD)
+* September 2014 - May 2015: Erasmus+ program (EU) (100%)
+
+
