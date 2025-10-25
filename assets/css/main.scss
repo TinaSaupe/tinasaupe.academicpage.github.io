@@ -45,11 +45,7 @@
 /* --- Custom overrides --- */
 
 /* Add extra space below the sidebar so the footer doesn't overlap */
-.sidebar {
-  padding-bottom: 2rem;
-}
-
-/* You can tweak this if the issue persists */
-#sidebar {
-  margin-bottom: 2rem;
+#sidebar, .sidebar {
+  padding-bottom: 4rem;
+  margin-bottom: 4rem;
 }
