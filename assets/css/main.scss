@@ -44,8 +44,12 @@
 
 /* --- Custom overrides --- */
 
+#main {
+  padding-bottom: 8rem; /* enough space for footer */
+}
+
 /* Add extra space below the sidebar so the footer doesn't overlap */
-#sidebar, .sidebar {
-  padding-bottom: 4rem;
-  margin-bottom: 4rem;
+.sidebar.sticky {
+  max-height: calc(100vh - 8rem); /* viewport height minus footer space */
+  overflow-y: auto; /* allows scrolling if needed */
 }
