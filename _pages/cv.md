@@ -55,4 +55,4 @@ Supervision
   * Title of Master thesis: Preliminary insights into the Bronze-to-Iron Age human demographic history of Pella (Jordan) using an ancient DNA approach
   * Andrea is now PhD candidate in the <a href="https://i-am-an-african.net/">Schlehbusch Group, Uppala University (Sweden)</a>
 
-## Please find here more details in my CV. 
+### Please find here more details in my CV. 

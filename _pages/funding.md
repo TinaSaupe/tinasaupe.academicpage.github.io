@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Personal research grants
+Personal research grants
 ======
 #### Primary: 
 

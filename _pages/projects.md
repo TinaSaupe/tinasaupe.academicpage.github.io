@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#### List of selected projects
+List of selected projects
 ======
 * Since February 2025: Study of Finnish population using ancient DNA
   * Workplace: University of Turku (Finland)
