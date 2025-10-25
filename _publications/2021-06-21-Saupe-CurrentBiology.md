@@ -3,7 +3,6 @@ title: "Ancient genomes reveal structural shifts after the arrival of Steppe-rel
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-21-Saupe-CurrentBiology
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-21
 venue: 'Current Biology'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
