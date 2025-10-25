@@ -50,6 +50,6 @@
 
 /* Add extra space below the sidebar so the footer doesn't overlap */
 .sidebar.sticky {
-  max-height: calc(100vh - 6rem); /* leave room for fixed footer */
-  overflow-y: auto;
+  max-height: calc(100vh - 6rem); /* viewport height minus footer space */
+  overflow-y: auto; /* allows scrolling if needed */
 }
