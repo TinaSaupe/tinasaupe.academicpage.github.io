@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "List of blogs"
+title: "Blog posts"
 permalink: /blogs/
 author_profile: true
 ---
 
+<p>Have a look at my blog posts below 🦄</p>
+
 {% for post in site.blogs reversed %}
   <article class="archive-item">
-    <h2><a href="{{ blogs.url | _blogs/2025-02-10-blog.md }}">{{ post.title }}</a></h2>
-    <p>{{ post.content | strip_html | truncate: 250 }}</p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+    <a href="{{ post.url | relative_url }}">Read more →</a>
   </article>
 {% endfor %}
