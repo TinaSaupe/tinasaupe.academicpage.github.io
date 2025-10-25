@@ -2,7 +2,7 @@
 title: "Ancient genomes reveal structural shifts after the arrival of Steppe-related ancestry in the Italian Peninsula"
 collection: publications
 category: manuscripts
-permalink: /publication/Saupe-2021-CurrentBiology
+permalink: /publication/2021-06-21-Saupe-CurrentBiology
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-21
 venue: 'Current Biology'
@@ -15,3 +15,4 @@ Highlights
 • Arrival of Steppe-related ancestry in the central Italian Peninsula by 1600 BCE
 • Close patrilineal kinship patterns within commingled Chalcolithic cave burials
 • Roman Imperial period had a stronger effect on phenotype shifts than the Bronze Age
+
