@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% for post in site.posts reversed %}
-  {% include archive-single-post.html %}
+  <article class="archive-item">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+    <a href="{{ post.url | relative_url }}">Read more →</a>
+  </article>
 {% endfor %}
 
