@@ -12,13 +12,13 @@ redirect_from:
 Personal research grants
 ======
 
-#### Primary: 
+### Primary: 
 
 * February 2023 - January 2025: Postdoctoral Fellowship 
   * Place of performance: Uppsala University (Sweden)
   * Funded by <a href="https://www.swgc.org/en/welcome">Wenner-Gren foundations<a/> based in Sweden
 
-#### Secondary:
+### Secondary:
 
 * June 2024: Research grant 
   * Place of performance: Uppsala University (Sweden)
