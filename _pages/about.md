@@ -17,10 +17,13 @@ redirect_from:
 
  I conducted my PhD studies at the <a href="https://genomics.ut.ee/en">Institute of Genomics, University of Tartu</a> 🇪🇪 and defended my dissertation titled [_**The genetic history of the Mediterranean before the common era: a focus on the Italian Peninsula**_](https://dspace.ut.ee/items/3a371275-20d4-4c16-bf11-84c9bd50a6ee) in August 2022. My research has mainly focused on the demographic history of the Mediterrean Basin during the Bronze Age period, however, I finally have decided to move on and will focus on Finnish population studies now. 
 
+In addition, in 2023, I co-founded the open and international <a href="https://haam-community.github.io/"<a/> for early career researchers focusing on human (ancient) DNA. 
+
 <div style="display: flex; flex-direction: row; align-items: center; gap: 0.5rem;">
   <img src="images/images-tinasaupe/Logo_Tartu.png" alt="University of Tartu" width="100" height="60">
   <img src="images/images-tinasaupe/Uppsala_universitet_logo.jpg" alt="Uppsala University" width="100" height="60">
   <img src="images/images-tinasaupe/UTU_logo_EN_RGB.png" alt="University of Turku" width="100" height="60">
+  <img src="images/images-tinasaupe/Logo_With_HAAM_Blue_v1.1.0.png" alt="HAAM-community" width="100" height="60">
 </div>
 
 
