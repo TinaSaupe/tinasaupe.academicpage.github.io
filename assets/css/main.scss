@@ -48,17 +48,6 @@
   padding-bottom: 6rem; /* enough space for footer */
 }
 
-.page__footer {
-  position: fixed;   /* fixed to viewport */
-  bottom: 0;         /* at the bottom */
-  left: 0;           /* stretch full width */
-  width: 100%;
-  background-color: #fff;  /* match your site design */
-  z-index: 1000;     /* above other content */
-  padding: 1rem;     /* space inside the footer */
-  box-shadow: 0 -2px 5px rgba(0,0,0,0.1); /* optional shadow */
-}
-
 /* Add extra space below the sidebar so the footer doesn't overlap */
 .sidebar.sticky {
   max-height: calc(100vh - 6rem); /* leave room for fixed footer */
