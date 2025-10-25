@@ -9,8 +9,8 @@ author_profile: true
 
 {% for post in site.blogs reversed %}
   <article class="archive-item">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    <a href="{{ post.url | relative_url }}">Read more →</a>
+    <h2><a href="{{ blogs.url | relative_url }}">{{ blogs.title }}</a></h2>
+    <p>{{ blogs.content | strip_html | truncatewords: 50 }}</p>
+    <a href="{{ blogs.url | relative_url }}">Read more →</a>
   </article>
 {% endfor %}
