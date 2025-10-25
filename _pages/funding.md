@@ -29,7 +29,7 @@ Personal research grants
 
 * January 2024: Research grant
   * Place of performance: Uppsala University (Sweden)
-  * Funded by Stiftelse Lars Hiertas Minne
+  * Funded by <a href="https://www.larshiertasminne.se/sv/">Stiftelse Lars Hiertas Minne<a/>
 
 
 Other grants
