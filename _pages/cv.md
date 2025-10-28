@@ -31,7 +31,7 @@ Work experience
   * Group leader: <a href="https://www.etis.ee/CV/Toomas_Kivisild">Toomas Kivisild</a>, <a href="https://www.arch.cam.ac.uk/directory/jer39">John Robb<a/>
   * (also during September 2022 - February 2023)
 
-* February 2023 - Janaury 2025: Postdoctoral Fellow
+* February 2023 - January 2025: Postdoctoral Fellow
   * Workplace: Uppsala University (Sweden)
   * Project: BronzeAgeRake -  Disentangling the human past in the Middle East during the Bronze Age using ancient DNA
   * Groupp leader: <a href="https://jakobssonlab.iob.uu.se/">Mattias Jakobsson</a>
